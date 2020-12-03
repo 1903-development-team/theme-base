@@ -1,0 +1,8 @@
+@apply text-center cursor-pointer border text-sm leading-5 font-medium rounded-md transition ease-in-out duration-150 text-button-primary-text bg-button-primary border-transparent;
+@apply bg-button-primary-hover;
+@apply outline-none bg-button-primary-hover;
+@apply bg-button-primary-hover;
+@apply text-center border-gray-200 cursor-pointer border text-sm leading-5 font-medium rounded-md transition ease-in-out duration-150 text-button-secondary-text bg-button-secondary;
+@apply bg-button-secondary-hover;
+@apply outline-none bg-button-secondary-hover;
+@apply bg-button-secondary-hover;
